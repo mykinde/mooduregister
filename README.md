@@ -164,7 +164,7 @@ for full package and demo contact g3send@gmail.com
 
 
 <p align="center">
-<img src="https://https://i.imgur.com/WEBM0wh.png">
+<img src="https://i.imgur.com/2EmQVtG.png">
 
 </p>
 
