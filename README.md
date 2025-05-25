@@ -161,7 +161,12 @@ for full package and demo contact g3send@gmail.com
 [My Site](https://mykinde.github.io/site/)
 [My AI-Chat](https://chatgpt.com/share/683312e2-fcc8-8004-a16a-ff288924bd58)
 
+
+
+<p align="center">
 <img src="https://https://i.imgur.com/WEBM0wh.png">
+
+</p>
 
 ### License
 MIT License
