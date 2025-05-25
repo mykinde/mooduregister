@@ -163,9 +163,10 @@ for full package and demo contact g3send@gmail.com
 [My Portfolio] (https://github.com/mykinde/portfolio/)
 
 [My Blog] (https://github.com/mykinde/)
-[My Resume] (https://mykinde.github.io/resume)
 
-[My Projects] (https://github.com/mykinde/projects/)
+[My Resume] (https://mykinde.github.com/myinde/resume)
+
+[My Projects] (https://github.com/mykinde/mooduregister)
 
 [My AI-Chat] (https://chatgpt.com/share/683312e2-fcc8-8004-a16a-ff288924bd58)
 
