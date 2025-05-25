@@ -152,6 +152,7 @@ for full package and demo contact g3send@gmail.com
 
 ## Credit
 [My Site](https://mykinde.github.io/site/)
+[My AI-Chat](https://chatgpt.com/share/683312e2-fcc8-8004-a16a-ff288924bd58)
 
 
 
