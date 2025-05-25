@@ -25,6 +25,9 @@ A complete student registration system with admin management panel.
 
 - Username: admin
 - Password: password
+Or 
+http://localhost/mooduregister/admin/register.php
+
 
 
 
@@ -100,7 +103,7 @@ start a direct php server from the terminal:
  http://localhost:8000
 
 6. Open the project in your browser:
-http://localhost/mooregister/
+http://localhost/mooduregister/
 Access:
 Student pages: register, login, dashboard.
 Admin pages: /admin/login.php
@@ -142,7 +145,7 @@ Session checks protect restricted pages.
 Input validation and sanitization are recommended if you extend the project.
 Contribution
 Feel free to fork, improve, and submit pull requests.
-
+htaccess to prevent downloading or access to sensitive config files
 
 ## mykinde
 for full package and demo contact g3send@gmail.com
