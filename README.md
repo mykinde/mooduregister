@@ -1,4 +1,6 @@
-# Student Registration System
+# Student Registration System for Moodle LMS External database authentication 
+
+## Overview
 
 A complete student registration system with admin management panel.
 
