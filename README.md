@@ -159,10 +159,10 @@ for full package and demo contact g3send@gmail.com
 
 ## Credit
 [My Site] (https://mykinde.github.io/site/)
-[My Portfolio] (https://mykinde.github.io/portfolio/)
-[My Blog] (https://mykinde.github.io/blog/)
-[My Resume] (https://mykinde.github.io/resume/)
-[My Projects] (https://mykinde.github.io/projects/)
+[My Portfolio] (https://github.com/mykinde/portfolio/)
+[My Blog] (https://github.com/mykinde/)
+[My Resume] (https://mykinde.github.io/resume)
+[My Projects] (https://github.com/mykinde/projects/)
 [My AI-Chat] (https://chatgpt.com/share/683312e2-fcc8-8004-a16a-ff288924bd58)
 
 
