@@ -97,7 +97,7 @@ A pure PHP and MySQL based Student Registration System with Bootstrap-styled fro
      $pass = 'your_db_password';
 	  $port = 'your_db_port';
 	 
-5. Or copy to Drive C:
+5. Or github extracted zip to copy to Drive C:
 start a direct php server from the terminal:
  php -S localhost:8000 -t C:/mooregister/
  http://localhost:8000
@@ -138,6 +138,13 @@ Folder Structure
 
 └── README.md      # This file
 
+## Direct testing with apache2 and sqlite
+Extract to C: 
+Launch Terminal/command prompt
+php -S localhost:7000 -t C:\mooduregister
+locate on your browser with url localhost:7000
+
+
 
 ### Security Notes
 Passwords are hashed with PHP’s password_hash() for security.
@@ -154,7 +161,7 @@ for full package and demo contact g3send@gmail.com
 [My Site](https://mykinde.github.io/site/)
 [My AI-Chat](https://chatgpt.com/share/683312e2-fcc8-8004-a16a-ff288924bd58)
 
-
+<img src="https://https://i.imgur.com/WEBM0wh.png">
 
 ### License
 MIT License
